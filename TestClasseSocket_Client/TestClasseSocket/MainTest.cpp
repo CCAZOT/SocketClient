@@ -7,7 +7,6 @@ using namespace std;
 void main(void)
 {
 	CClientSocket Sc1;
-	CServeurSocket Ss1;
 
 	/*******************************************************************************************
 	* PARTIE CLIENT SOCKET
